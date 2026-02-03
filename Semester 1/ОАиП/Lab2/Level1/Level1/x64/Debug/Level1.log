@@ -1,0 +1,4 @@
+﻿  Level1.cpp
+D:\BSUIR\Semester 1\ОАиП\Lab2\Level1\Level1.cpp(6,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BSUIR\Semester 1\ОАиП\Lab2\Level1\Level1.cpp(26,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Level1.vcxproj -> D:\BSUIR\Semester 1\ОАиП\Lab2\Level1\x64\Debug\Level1.exe

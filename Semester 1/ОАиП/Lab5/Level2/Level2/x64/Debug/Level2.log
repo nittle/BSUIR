@@ -1,0 +1,3 @@
+﻿  Level2.cpp
+D:\Desktop\BSUIR\Semester 1\ОАиП\Lab5\Level2\Level2.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Level2.vcxproj -> D:\Desktop\BSUIR\Semester 1\ОАиП\Lab5\Level2\x64\Debug\Level2.exe

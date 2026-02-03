@@ -1,0 +1,21 @@
+readers:
+- borrowed_books:
+  - 1
+  - 2
+  - 3
+  name: Mark
+- borrowed_books:
+  - 4
+  - 5
+  - 6
+  name: Jeam
+- borrowed_books:
+  - 8
+  - 9
+  - 10
+  name: Goose
+- borrowed_books:
+  - 8
+  - 9
+  - 10
+  name: Goose

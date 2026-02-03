@@ -1,0 +1,22 @@
+<books>
+    <book id="1">
+        <title>Harry Potter</title>
+        <author>J.K.Rowling</author>
+        <isbn>0987654321</isbn>
+    </book>
+    <book id="2">
+        <title>Pet Sematary</title>
+        <author>S.King</author>
+        <isbn>1234567890</isbn>
+    </book>
+    <book id="3">
+        <title>Alice's Adventures in Wonderland</title>
+        <author>C.Lewis</author>
+        <isbn>1234567890</isbn>
+    </book>
+    <book id="4">
+        <title>Blood Meridian</title>
+        <author>Comac McCarthy</author>
+        <isbn>32795235</isbn>
+    </book>
+</books>

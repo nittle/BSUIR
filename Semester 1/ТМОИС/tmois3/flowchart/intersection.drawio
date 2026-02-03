@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.1">
+  <diagram name="Page-1" id="mqbvp--7Z8zlOBQUVtia">
+    <mxGraphModel dx="1678" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MmCM6_81T0HreaXEN7nc-56" edge="1" parent="1" source="MmCM6_81T0HreaXEN7nc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MmCM6_81T0HreaXEN7nc-55" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Начало" vertex="1">
+          <mxGeometry height="80" width="120" x="370" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-53" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MmCM6_81T0HreaXEN7nc-52" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="499.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-32" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MmCM6_81T0HreaXEN7nc-31" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="767" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-30" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="MmCM6_81T0HreaXEN7nc-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="677" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-36" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MmCM6_81T0HreaXEN7nc-35" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="944" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-39" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="MmCM6_81T0HreaXEN7nc-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="984" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-47" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Конец" vertex="1">
+          <mxGeometry height="80" width="120" x="370" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-54" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MmCM6_81T0HreaXEN7nc-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="589.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-60" edge="1" parent="1" source="MmCM6_81T0HreaXEN7nc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MmCM6_81T0HreaXEN7nc-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-55" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ввод X, Y, G, M, N, P" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="439" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-57" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" value="X, Y, M, N - множества&lt;br&gt;G, P - гарфики соответствия" vertex="1">
+          <mxGeometry height="100" width="50" x="522" y="419" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-58" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="MmCM6_81T0HreaXEN7nc-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="469" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-62" edge="1" parent="1" source="MmCM6_81T0HreaXEN7nc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MmCM6_81T0HreaXEN7nc-61" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-59" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Пересечение X и M" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="526" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-64" edge="1" parent="1" source="MmCM6_81T0HreaXEN7nc-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MmCM6_81T0HreaXEN7nc-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-61" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Пересечение Y и N" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="613" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-66" edge="1" parent="1" source="MmCM6_81T0HreaXEN7nc-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MmCM6_81T0HreaXEN7nc-65" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-63" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Пересечение графов G и P" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="706" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-67" edge="1" parent="1" source="MmCM6_81T0HreaXEN7nc-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MmCM6_81T0HreaXEN7nc-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmCM6_81T0HreaXEN7nc-65" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Вывод результатов" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="799" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,18 @@
+---
+name: books
+columns:
+  - title: "Война и мир"
+    author: "Толстой Л.Н."
+    year: 1869
+    page_count: 1300
+    genre: "роман"
+  - title: "1984"
+    author: "Оруеэлл Дж."
+    year: 1949
+    page_count: 328
+    genre: "антиутопия"
+  - title: "Мастер и Маргарита"
+    author: "Булгаков М.А."
+    year: 1967
+    page_count: 480
+    genre: "фантастика"

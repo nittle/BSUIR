@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\BSUIR\\Semester 1\\\u041E\u0410\u0438\u041F\\Lab8\\Level3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7BCA1A-1C8E-42D0-8385-76D56E027F47}|Level3.vcxproj|D:\\Desktop\\BSUIR\\Semester 1\\\u041E\u0410\u0438\u041F\\Lab8\\Level3\\Level3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E7BCA1A-1C8E-42D0-8385-76D56E027F47}|Level3.vcxproj|solutionrelative:Level3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Level3.cpp",
+              "DocumentMoniker": "D:\\Desktop\\BSUIR\\Semester 1\\\u041E\u0410\u0438\u041F\\Lab8\\Level3\\Level3.cpp",
+              "RelativeDocumentMoniker": "Level3.cpp",
+              "ToolTip": "D:\\Desktop\\BSUIR\\Semester 1\\\u041E\u0410\u0438\u041F\\Lab8\\Level3\\Level3.cpp",
+              "RelativeToolTip": "Level3.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T14:51:24.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
