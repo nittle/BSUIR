@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="restaurant_dish_tracking_system.vcxproj" Id="6b316348-4b10-4834-88f6-6259378574ba" />
+</Solution>
